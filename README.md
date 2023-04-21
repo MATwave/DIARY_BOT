@@ -1,4 +1,5 @@
 # DIARY_BOT
+![изображение](https://user-images.githubusercontent.com/44034959/233533425-761a2add-dbaa-4285-9d42-262fa6478d01.png)
 
 телеграм бот для ведения дневника
 
